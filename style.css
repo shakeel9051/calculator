@@ -1,0 +1,38 @@
+.main{
+    border: 10px solid black;
+    width: 400px;
+    text-align: center;
+    margin: auto;
+    background:rgb(182, 177, 177);
+    
+    height: 300px;
+}
+.hi{
+    margin-top: 50px;
+    width: 100px;
+    margin: auto;
+    color:black
+}
+.hm{
+    margin-top: 20px;
+    font-size: 20px;
+    
+}
+#btn1,#btn2{
+    display: flex;
+    height: 30px;
+    width: 50px;
+}
+#res{
+    margin-top: 20px;
+}
+body{
+    background: url(./calci.jpg);
+
+}
+#n1,#n2{
+    height: 25px;
+}
+#btn2{
+    margin-top: 10px;
+}
